@@ -1,0 +1,31 @@
+ordre des actions CFSML
+
+creation fenetre
+
+creation texture
+creation sprite
+association texture sur sprite
+
+event loop
+
+refresh
+        clear
+        drawsprites * nb sprite
+        drawtext * nb text
+        display
+
+
+
+
+
+
+
+////////////////////:
+music/patate.mp3
+music/saucisse.mp3
+
+- >
+
+char **
+
+musics[1]
